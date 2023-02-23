@@ -1,0 +1,6 @@
+#banner-pic {
+    /* background-image: url(".\Portfolio\photos\banner_hero.png"); */
+    background-color: gray;
+    background-image: url(".\Mejias_Portfolio\banner_hero.png");
+    height: 700px;
+}
